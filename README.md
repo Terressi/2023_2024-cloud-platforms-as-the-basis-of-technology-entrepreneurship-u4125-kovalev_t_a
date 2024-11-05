@@ -2,7 +2,7 @@
 ## University: [ITMO University](https://itmo.ru/ru/) 
 ## Faculty: [FTMI](https://fict.itmo.ru) 
 ## Course: [Cloud platforms as the basis of technology entrepreneurship] 
-## Year: 2023/2024 
+## Year: 2024/2025 
 ## Group: U4125 
 ## Author: Kovalev Taras Andreevich 
 ## Lab: Lab2 
@@ -25,7 +25,7 @@
 Первая версия изначально была на порту 8080 - cтандартный порт для веб-сервисов.
 
 Образ контейнера задеплоен:
-![image]()
+![image](https://github.com/user-attachments/assets/b4ac46ed-0f3e-4ba4-942d-95e93a06e931)
 
 
 
