@@ -8,3 +8,6 @@ Author: Kovalev Taras Andreevich
 Lab: Lab2 
 Date of create: 5.11.2024 
 Date of finished: -
+
+
+Описание
