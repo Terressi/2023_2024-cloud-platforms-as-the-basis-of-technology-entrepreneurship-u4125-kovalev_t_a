@@ -1,3 +1,5 @@
+git commit -m "Move file from main to Lab1"
+
 # 2023_2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-kovalev_t_a
 ## University: [ITMO University](https://itmo.ru/ru/) 
 ## Faculty: [FTMI](https://fict.itmo.ru) 
