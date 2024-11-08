@@ -3,7 +3,7 @@
 ## Faculty: [FTMI](https://fict.itmo.ru) 
 ## Course: [Cloud platforms as the basis of technology entrepreneurship] 
 ## Year: 2024/2025 
-## Group: U4125 
+## Group: U4225 
 ## Author: Kovalev Taras Andreevich 
 ## Lab: Lab2 
 ## Date of create: 5.11.2024 
