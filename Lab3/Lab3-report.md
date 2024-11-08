@@ -9,8 +9,9 @@
 ## Date of finished: -
 
 ## Был создан свой бакет tkovalev-lab3-bucket
-<img width="1185" alt="Снимок экрана 2024-11-06 в 21 16 03" src="https://github.com/user-attachments/assets/22c97e0a-25d4-4be5-87db-0eefa739850e">
-
+<img width="1452" alt="Снимок экрана 2024-11-08 в 17 25 23" src="https://github.com/user-attachments/assets/1a18846f-f081-4e33-a3b6-077627cdcc2e">
+ Ссылка на бакет: https://storage.googleapis.com/tkovalev-lab3-bucket/Photoes%20/2024-10-26%2017.06.22.jpg
+ 
 ## Были загружены 3 картинки с помощью upload files
 <img width="1171" alt="Снимок экрана 2024-11-06 в 21 16 28" src="https://github.com/user-attachments/assets/1dda79b1-ed7a-4fba-808e-f7fe768ef44a">
 
